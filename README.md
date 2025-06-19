@@ -64,7 +64,7 @@ The goal is to surface actionable insights for healthcare analysts, hospital fin
 ## 📎 Data Source
 
 Centers for Medicare & Medicaid Services (CMS)  
-[https://data.cms.gov/provider-summary-by-type-of-service/medicare-provider-utilization-and-payment/medicare-inpatient-hospitals](https://data.cms.gov/provider-summary-by-type-of-service/medicare-provider-utilization-and-payment/medicare-inpatient-hospitals)
+https://catalog.data.gov/dataset/medicare-inpatient-hospitals-by-provider-and-service-9af02/resource/7da32f94-9ef6-4494-adf6-566adf085c04
 
 ---
 
